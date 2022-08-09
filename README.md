@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agent-Usagi 
 - 👀 I’m interested in coding, music, photography and all kinds of things.
-- 🌱 I’m currently learning python and JS
+- 🌱 I’m currently finished HTML, CSS and Python and now studying JavaScript.
 - 📫 How to reach me Kristhornton@ymail.com
 
 <!---
