@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Agent-Usagi 
+- 👋 Hi, I’m @Kris Thornton 
 - 👀 I’m interested in coding, music, photography and all kinds of things.
 - 🌱 I currently finished HTML, CSS and Python and now studying JavaScript.
 - 📫 How to reach me Kristhornton@ymail.com
